@@ -1,1 +1,5 @@
-# Premiere ligne du trainer
+from sklearn.preprocessing import StandardScaler
+
+class Trainer():
+    def train():
+        std = StandardScaler()
